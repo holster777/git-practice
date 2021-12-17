@@ -1,3 +1,4 @@
 Name: Hollie
 Age: 35
 Favorite Place: Singapore
+This looks better already. I don't know why the first data.txt file didn't have the text from the local file. Weird.
